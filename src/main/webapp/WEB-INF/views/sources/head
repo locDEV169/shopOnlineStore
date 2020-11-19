@@ -1,0 +1,23 @@
+<meta charset="UTF-8">
+	
+    <!--title-->
+    <title>Dusk</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <!--Add bootsrap 4-->
+    <!--
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    -->
+    <!--link css-->
+    <link href="<c:url value="/resources/styles/style.css" ></c:url>" rel="stylesheet" type="text/css" media="all" />
+    <link href="<c:url value="/resources/styles/login.css" ></c:url>" rel="stylesheet" type="text/css" media="all" />
+    <!--link js-->
+    
+    <!--link lấy font trên mạng-->
+    <link href='http://fonts.googleapis.com/css?family=Monda' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Doppio+One' rel='stylesheet' type='text/css'>
+    <!--link logo lấy từ fontawesome-->
+    <script src="https://kit.fontawesome.com/649a628862.js" crossorigin="anonymous">
+    </script>

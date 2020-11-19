@@ -1,0 +1,39 @@
+<div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col-1">
+                    <h3>Download Our App</h3>
+                    <p>Download App for Androoid and Ios Phone</p>
+                    <div class="app-logo">
+                        <img src='<c:url value="/resources/img/frontend/app-store.png" ></c:url>'  alt="">
+                        <img src='<c:url value="/resources/img/frontend/play-store.png" ></c:url>'  alt="">
+                    </div>
+                </div>
+                <div class="footer-col-2">
+                    <img src='<c:url value="/resources/img/frontend/logo-white.png" ></c:url>' alt="">
+                    <p>Our Purpose is to sustainably make the please and benifits of Outfit accessible to the many </p>
+                </div>
+                <div class="footer-col-3">
+                    <h3>Useful Links</h3>
+                    <ul>
+                        <li>Coupons</li>
+                        <li>Blogs Post</li>
+                        <li>Return Policy</li>
+                        <li>Join Affilicate</li>
+                    </ul>
+                </div>
+                <div class="footer-col-4">
+                    <h3>Follow Us</h3>
+                    <ul>
+                        <li>Facebook</li>
+                        <li>Instagram</li>
+                        <li>Twiter</li>
+                        <li>Youtube</li>
+                    </ul>
+                </div>
+            </div>
+            <hr>
+            <p class="copyright">Copyright 2020 - East Tutorial</p>
+            <p class="copyright">Copyright and Rewrite By LocNguyen</p>
+        </div>
+    </div>
