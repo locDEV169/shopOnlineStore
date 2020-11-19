@@ -5,7 +5,7 @@
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/target/generated-sources/annotations"/>
-        <property name="context-root" value="com.jsp.shopaoquan"/>
         <property name="java-output-path" value="/com.jsp.shopaoquan/target/classes"/>
+        <property name="context-root" value="shopaoquan"/>
     </wb-module>
 </project-modules>

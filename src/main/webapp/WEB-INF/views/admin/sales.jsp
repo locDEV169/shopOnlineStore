@@ -11,14 +11,6 @@
 </head>
 <body>
 	<div class="grid_10">
-		<div class="dropdown">
-             <a >Month</a>
-             <div class="dropdown-content">
-             	<c:forEach var = "m" begin="1" end="12">
-					<a href="saleM?month=${m}">Tháng ${m}</a>
-				</c:forEach>
-             </div>
-         </div>
 		
 		<div class="box round first grid">
 			<div class="block">

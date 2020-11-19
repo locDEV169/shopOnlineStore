@@ -5,10 +5,18 @@
                
 				
                 
-                <li><a class="menuitem">Category Option</a>
+                <li><a class="menuitem">Month</a>
                     <ul class="submenu">
-                        <li><a href="sales">Add Category</a> </li>
-                        <li><a href="typeList">Category List</a> </li>
+                        <c:forEach var = "m" begin="1" end="12">
+							<li><a href="saleM?month=${m}">Month ${m}</a></li>
+						</c:forEach>
+                    </ul>
+                </li>
+                <li><a class="menuitem">Quarter</a>
+                    <ul class="submenu">
+                        <c:forEach var = "q" begin="1" end="4">
+							<li><a href="saleQ?quarter=${q}">Quarter ${q}</a></li>
+						</c:forEach>
                     </ul>
                 </li>
                 <li><a class="menuitem">Product Option</a>
